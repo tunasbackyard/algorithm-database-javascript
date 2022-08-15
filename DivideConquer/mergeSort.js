@@ -37,5 +37,3 @@ function merge(leftArray, rightArray, array) {
     k++;
   }
 }
-
-const array = mergeSort([1, 3, 7, 4, 2, 5, 8, 6, 9, 0]);
